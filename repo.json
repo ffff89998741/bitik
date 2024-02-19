@@ -1,8 +1,8 @@
 {
-    "name": "Turkish Providers Repository | @KekikAkademi",
-    "description": "Türkçe içerikli eklenti havuzu",
+    "name": "Turkish Providers Repository",
+    "description": "Türkçe içerikli eklenti havuz",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/plugins.json"
+      "https://raw.githubusercontent.com/ffff89998741/bitik/master/repo.json"
     ]
 }
